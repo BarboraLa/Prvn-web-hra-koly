@@ -1,0 +1,109 @@
+body {
+    background-color: #BFFA76;
+	width: 960px;
+	margin: 0 auto;
+	font-family: "Verdana";
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #7AD807;
+	font-weight: normal;
+}
+
+.cistic {
+	clear: both;
+}
+
+header.hlavni {
+    background: #2B9322;
+    font-family: "Arial";
+	border-radius: 0px 0px 10px 10px;
+	padding: 5px 15px;
+}
+
+header.hlavni img {
+	float: left;
+	margin-right: 10px;	
+}
+
+header.hlavni h1 {
+	line-height: 30px;
+	color: #BFFA76;
+	font-weight: normal;
+	font-size: 1.6em;
+}
+
+nav ul {
+    list-style-type: none;
+	padding-left: 15px;
+}
+
+nav ul li:hover {
+	background: #2B9322;	
+}
+
+nav ul li {
+	display: block;
+	width: 130px;
+	height: 130px;
+	border-radius: 65px;
+	background-color: #7AD807;
+	float: left;
+	text-align: center;
+	margin-right: 30px;
+}
+
+#posledni-tlacitko {
+	margin-right: 0px;
+}
+
+nav ul li a {
+	color: black;
+	font-family: "Arial";
+	text-decoration: none;
+	font-size: 1.1em;
+	line-height: 128px;
+}
+
+nav ul li:hover a {
+	color: #BFFA76;
+}
+
+article {
+	border-radius: 10px;
+    background: white;
+}
+
+article h1 {
+	font-family:"Arial";
+	background: #2B9322;
+	border-radius: 10px 10px 0px 0px;
+	padding: 10px 15px;
+	color: #BFFA76;	
+}
+
+article h2 {	
+	font-size: 1.2em;
+	margin: 50px 15px 15px 15px;
+}
+
+footer {
+	padding: 10px;
+	text-align: center;
+	font-size: 0.8em;
+}
+
+footer.hlavni {	
+    background: #2B9322;    
+	color: #BFFA76;
+}
+
+article footer {
+	background: white;	
+	border-radius: 0px;
+}
+
+article p {
+    text-align: justify;
+    margin: 15px;
+}

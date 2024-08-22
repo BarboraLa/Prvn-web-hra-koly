@@ -1,0 +1,13 @@
+
+.tlacitko {
+	background: green;
+    color: white;
+    font-size: 0.9em;
+    border-radius: 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 12px 25px;
+}
+.tlacitko:hover {
+    background: rgb(34, 14, 165);
+}

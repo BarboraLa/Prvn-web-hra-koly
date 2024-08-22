@@ -1,0 +1,27 @@
+
+tbody tr:hover {
+    background: #C6DAF8;
+}
+table {
+    box-shadow: 0px 0px 20px #aaaaaa;
+    border-collapse: collapse;
+    margin: 10px auto 20px auto;
+    font-family: Arial;
+}
+table th{
+    background: #3b94e0;
+    color: white;
+    border: 1px solid #3b94e0;
+    padding: 5px;
+}
+table td{
+    border: 1px solid #3b94e0;
+    padding: 5px;
+    text-align: center;
+}
+tfoot td {
+    text-align: right;
+    color: #3b94e0;
+    font-weight: bold;
+    font-size: 0.7em;
+}

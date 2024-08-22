@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(215, 143, 27);
+    text-align: center;
+}
+p {
+    text-align: left;
+}
+.pavucina1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.pavucina2 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.pavucina3 {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+.pavucina4 {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}

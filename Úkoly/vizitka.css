@@ -1,0 +1,25 @@
+article {
+	width: 480px; 
+	height: 150px; 
+	background: #ebebeb;
+	border: 2px solid #d0d0d0;
+	box-shadow: 8px 8px 12px #524F4F;
+    padding: 12px;
+}
+
+article img {
+	height: 130px; 
+	margin: 10px 0px 10px 10px;
+	float: left;
+}
+
+article section {
+	float: left;
+	margin-left: 20px;
+	font-family: Verdana;
+}
+
+article h1 {
+	font-size: 2.3em;
+	margin: 5px 0px;
+}

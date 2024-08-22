@@ -1,0 +1,45 @@
+.fialova {
+    background: #7D15BA;
+    color: white
+}
+.modra{
+    background: #1536BA;
+}
+.azurova {
+    background: #13B1D8;
+}
+.zelena {
+    background: #55D813;
+}
+.zluta {
+    background: #D8D102;
+}
+.oranzova {
+    background: #D8A602;
+}
+.cervena {
+    background: #D82D02;
+}
+.vinova {
+    background: #78037B;
+    color: white
+}
+
+section {
+	width: 200px; 
+	margin: 50px;
+	border: 1px solid black; 
+	padding: 0px 15px; 
+	font-size: 1.1em;
+}
+
+.obrazek {
+	font-size: 4em; 
+	text-align: center;
+	margin: 0.8em;
+}
+
+.prava {
+	text-align: right;
+}
+
